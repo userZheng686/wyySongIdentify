@@ -16,7 +16,7 @@
 
 2.页面打开会自动播放音乐，里面的音乐链接可以替换成你自己的音乐，指纹大概会6-7s生成一次，页面会自动打印出来。你也可以去fpArr里面取。
 
-3.result.json是对应https://interface.music.163.com/api/music/audio/match的请求结果。如果你已经了解过NeteaseCloudMusicApi这个库就已经知道数据都是加密过的，但是这个接口的数据是不用加密的（请求数据和响应数据）
+3.result.json是对应`https://interface.music.163.com/api/music/audio/match`的请求结果。如果你已经了解过NeteaseCloudMusicApi这个库就已经知道数据都是加密过的，但是这个接口的数据是不用加密的（请求数据和响应数据）
 
 4.Ke是最终生成指纹的方法 将加工后的buffer数据放进去就可以了
 
