@@ -1,0 +1,620 @@
+{
+    "data": {
+        "type": 1,
+        "result": [
+            {
+                "startTime": -180,
+                "song": {
+                    "name": "fish in the pool ・花屋敷",
+                    "id": 31861269,
+                    "position": 2,
+                    "alias": [],
+                    "status": 0,
+                    "fee": 0,
+                    "copyrightId": 663018,
+                    "disc": "1",
+                    "no": 2,
+                    "artists": [
+                        {
+                            "name": "ヘクとパスカル",
+                            "id": 990035,
+                            "picId": 0,
+                            "img1v1Id": 0,
+                            "briefDesc": "",
+                            "picUrl": "http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                            "img1v1Url": "http://p3.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                            "albumSize": 0,
+                            "alias": [],
+                            "trans": "",
+                            "musicSize": 0,
+                            "topicPerson": 0
+                        }
+                    ],
+                    "album": {
+                        "name": "fish in the pool",
+                        "id": 3139228,
+                        "type": "专辑",
+                        "size": 20,
+                        "picId": 109951163338260160,
+                        "blurPicUrl": "http://p4.music.126.net/7e4NS7e8Udxq-4wY5Gm90A==/109951163338260164.jpg",
+                        "companyId": 0,
+                        "pic": 109951163338260160,
+                        "picUrl": "http://p4.music.126.net/7e4NS7e8Udxq-4wY5Gm90A==/109951163338260164.jpg",
+                        "publishTime": 1424361600000,
+                        "description": "",
+                        "tags": "",
+                        "company": "ノーマンズ・ノーズ",
+                        "briefDesc": "",
+                        "artist": {
+                            "name": "",
+                            "id": 0,
+                            "picId": 0,
+                            "img1v1Id": 0,
+                            "briefDesc": "",
+                            "picUrl": "http://p3.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                            "img1v1Url": "http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                            "albumSize": 0,
+                            "alias": [],
+                            "trans": "",
+                            "musicSize": 0,
+                            "topicPerson": 0
+                        },
+                        "songs": [],
+                        "alias": [
+                            "花与爱丽丝杀人事件 原声带"
+                        ],
+                        "status": -1,
+                        "copyrightId": 0,
+                        "commentThreadId": "R_AL_3_3139228",
+                        "artists": [
+                            {
+                                "name": "ヘクとパスカル",
+                                "id": 990035,
+                                "picId": 0,
+                                "img1v1Id": 0,
+                                "briefDesc": "",
+                                "picUrl": "http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                                "img1v1Url": "http://p3.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                                "albumSize": 0,
+                                "alias": [],
+                                "trans": "",
+                                "musicSize": 0,
+                                "topicPerson": 0
+                            }
+                        ],
+                        "subType": "录音室版",
+                        "transName": null,
+                        "mark": 0,
+                        "picId_str": "109951163338260164"
+                    },
+                    "starred": false,
+                    "popularity": 100,
+                    "score": 100,
+                    "starredNum": 0,
+                    "duration": 276386,
+                    "playedNum": 0,
+                    "dayPlays": 0,
+                    "hearTime": 0,
+                    "ringtone": null,
+                    "crbt": null,
+                    "audition": null,
+                    "copyFrom": "",
+                    "commentThreadId": "R_SO_4_31861269",
+                    "rtUrl": null,
+                    "ftype": 0,
+                    "rtUrls": [],
+                    "copyright": 2,
+                    "transName": null,
+                    "sign": null,
+                    "mark": 0,
+                    "hMusic": {
+                        "name": null,
+                        "id": 1499790162,
+                        "size": 11058199,
+                        "extension": "mp3",
+                        "sr": 44100,
+                        "dfsId": 0,
+                        "bitrate": 320000,
+                        "playTime": 276386,
+                        "volumeDelta": 22165
+                    },
+                    "lMusic": {
+                        "name": null,
+                        "id": 1499790164,
+                        "size": 4423306,
+                        "extension": "mp3",
+                        "sr": 44100,
+                        "dfsId": 0,
+                        "bitrate": 128000,
+                        "playTime": 276386,
+                        "volumeDelta": 22165
+                    },
+                    "mvid": 0,
+                    "rtype": 0,
+                    "rurl": null,
+                    "mMusic": {
+                        "name": null,
+                        "id": 1499790163,
+                        "size": 6634937,
+                        "extension": "mp3",
+                        "sr": 44100,
+                        "dfsId": 0,
+                        "bitrate": 192000,
+                        "playTime": 276386,
+                        "volumeDelta": 22165
+                    },
+                    "bMusic": {
+                        "name": null,
+                        "id": 1499790164,
+                        "size": 4423306,
+                        "extension": "mp3",
+                        "sr": 44100,
+                        "dfsId": 0,
+                        "bitrate": 128000,
+                        "playTime": 276386,
+                        "volumeDelta": 22165
+                    },
+                    "mp3Url": null,
+                    "privilege": {
+                        "id": 31861269,
+                        "fee": 0,
+                        "payed": 0,
+                        "st": 0,
+                        "pl": 320000,
+                        "dl": 999000,
+                        "sp": 7,
+                        "cp": 1,
+                        "subp": 1,
+                        "cs": false,
+                        "maxbr": 999000,
+                        "fl": 320000,
+                        "toast": false,
+                        "flag": 128,
+                        "preSell": false,
+                        "playMaxbr": 999000,
+                        "downloadMaxbr": 999000,
+                        "rscl": null,
+                        "freeTrialPrivilege": {
+                            "resConsumable": false,
+                            "userConsumable": false
+                        },
+                        "chargeInfoList": [
+                            {
+                                "rate": 128000,
+                                "chargeUrl": null,
+                                "chargeMessage": null,
+                                "chargeType": 0
+                            },
+                            {
+                                "rate": 192000,
+                                "chargeUrl": null,
+                                "chargeMessage": null,
+                                "chargeType": 0
+                            },
+                            {
+                                "rate": 320000,
+                                "chargeUrl": null,
+                                "chargeMessage": null,
+                                "chargeType": 0
+                            },
+                            {
+                                "rate": 999000,
+                                "chargeUrl": null,
+                                "chargeMessage": null,
+                                "chargeType": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "startTime": 2360,
+                "song": {
+                    "name": "fish in the pool",
+                    "id": 1400060032,
+                    "position": 0,
+                    "alias": [],
+                    "status": 0,
+                    "fee": 0,
+                    "copyrightId": 0,
+                    "disc": "01",
+                    "no": 1,
+                    "artists": [
+                        {
+                            "name": "Koori冰鹤",
+                            "id": 12605253,
+                            "picId": 0,
+                            "img1v1Id": 0,
+                            "briefDesc": "",
+                            "picUrl": "http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                            "img1v1Url": "http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                            "albumSize": 0,
+                            "alias": [],
+                            "trans": "",
+                            "musicSize": 0,
+                            "topicPerson": 0
+                        }
+                    ],
+                    "album": {
+                        "name": "fish in the pool",
+                        "id": 82772579,
+                        "type": "专辑",
+                        "size": 1,
+                        "picId": 109951164457968620,
+                        "blurPicUrl": "http://p4.music.126.net/ru0gpr4wzcsJLVgsjaRqLQ==/109951164457968630.jpg",
+                        "companyId": 0,
+                        "pic": 109951164457968620,
+                        "picUrl": "http://p4.music.126.net/ru0gpr4wzcsJLVgsjaRqLQ==/109951164457968630.jpg",
+                        "publishTime": 1572428267535,
+                        "description": "",
+                        "tags": "",
+                        "company": null,
+                        "briefDesc": "",
+                        "artist": {
+                            "name": "",
+                            "id": 0,
+                            "picId": 0,
+                            "img1v1Id": 0,
+                            "briefDesc": "",
+                            "picUrl": "http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                            "img1v1Url": "http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                            "albumSize": 0,
+                            "alias": [],
+                            "trans": "",
+                            "musicSize": 0,
+                            "topicPerson": 0
+                        },
+                        "songs": [],
+                        "alias": [],
+                        "status": 0,
+                        "copyrightId": 0,
+                        "commentThreadId": "R_AL_3_82772579",
+                        "artists": [
+                            {
+                                "name": "Koori冰鹤",
+                                "id": 12605253,
+                                "picId": 0,
+                                "img1v1Id": 0,
+                                "briefDesc": "",
+                                "picUrl": "http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                                "img1v1Url": "http://p3.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                                "albumSize": 0,
+                                "alias": [],
+                                "trans": "",
+                                "musicSize": 0,
+                                "topicPerson": 0
+                            }
+                        ],
+                        "subType": "Remix",
+                        "transName": null,
+                        "mark": 0,
+                        "picId_str": "109951164457968630"
+                    },
+                    "starred": false,
+                    "popularity": 25,
+                    "score": 25,
+                    "starredNum": 0,
+                    "duration": 285920,
+                    "playedNum": 0,
+                    "dayPlays": 0,
+                    "hearTime": 0,
+                    "ringtone": "",
+                    "crbt": null,
+                    "audition": null,
+                    "copyFrom": "",
+                    "commentThreadId": "R_SO_4_1400060032",
+                    "rtUrl": null,
+                    "ftype": 0,
+                    "rtUrls": [],
+                    "copyright": 0,
+                    "transName": null,
+                    "sign": null,
+                    "mark": 0,
+                    "hMusic": {
+                        "name": null,
+                        "id": 4101569031,
+                        "size": 11439587,
+                        "extension": "mp3",
+                        "sr": 44100,
+                        "dfsId": 0,
+                        "bitrate": 320000,
+                        "playTime": 285920,
+                        "volumeDelta": -23740
+                    },
+                    "lMusic": {
+                        "name": null,
+                        "id": 4101569033,
+                        "size": 4575861,
+                        "extension": "mp3",
+                        "sr": 44100,
+                        "dfsId": 0,
+                        "bitrate": 128000,
+                        "playTime": 285920,
+                        "volumeDelta": -19385
+                    },
+                    "mvid": 0,
+                    "rtype": 0,
+                    "rurl": null,
+                    "mMusic": {
+                        "name": null,
+                        "id": 4101569032,
+                        "size": 6863769,
+                        "extension": "mp3",
+                        "sr": 44100,
+                        "dfsId": 0,
+                        "bitrate": 192000,
+                        "playTime": 285920,
+                        "volumeDelta": -21110
+                    },
+                    "bMusic": {
+                        "name": null,
+                        "id": 4101569033,
+                        "size": 4575861,
+                        "extension": "mp3",
+                        "sr": 44100,
+                        "dfsId": 0,
+                        "bitrate": 128000,
+                        "playTime": 285920,
+                        "volumeDelta": -19385
+                    },
+                    "mp3Url": null,
+                    "privilege": {
+                        "id": 1400060032,
+                        "fee": 0,
+                        "payed": 0,
+                        "st": 0,
+                        "pl": 320000,
+                        "dl": 999000,
+                        "sp": 7,
+                        "cp": 1,
+                        "subp": 1,
+                        "cs": false,
+                        "maxbr": 999000,
+                        "fl": 320000,
+                        "toast": false,
+                        "flag": 128,
+                        "preSell": false,
+                        "playMaxbr": 999000,
+                        "downloadMaxbr": 999000,
+                        "rscl": null,
+                        "freeTrialPrivilege": {
+                            "resConsumable": false,
+                            "userConsumable": false
+                        },
+                        "chargeInfoList": [
+                            {
+                                "rate": 128000,
+                                "chargeUrl": null,
+                                "chargeMessage": null,
+                                "chargeType": 0
+                            },
+                            {
+                                "rate": 192000,
+                                "chargeUrl": null,
+                                "chargeMessage": null,
+                                "chargeType": 0
+                            },
+                            {
+                                "rate": 320000,
+                                "chargeUrl": null,
+                                "chargeMessage": null,
+                                "chargeType": 0
+                            },
+                            {
+                                "rate": 999000,
+                                "chargeUrl": null,
+                                "chargeMessage": null,
+                                "chargeType": 1
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "startTime": -80,
+                "song": {
+                    "name": "说实话，我不敢喜欢你。",
+                    "id": 1850094104,
+                    "position": 0,
+                    "alias": [],
+                    "status": 0,
+                    "fee": 8,
+                    "copyrightId": 0,
+                    "disc": "01",
+                    "no": 3,
+                    "artists": [
+                        {
+                            "name": "Mood_BBB9",
+                            "id": 47293261,
+                            "picId": 0,
+                            "img1v1Id": 0,
+                            "briefDesc": "",
+                            "picUrl": "http://p3.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                            "img1v1Url": "http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                            "albumSize": 0,
+                            "alias": [],
+                            "trans": "",
+                            "musicSize": 0,
+                            "topicPerson": 0
+                        }
+                    ],
+                    "album": {
+                        "name": "说了再见的人",
+                        "id": 128389854,
+                        "type": "专辑",
+                        "size": 3,
+                        "picId": 109951166054812380,
+                        "blurPicUrl": "http://p4.music.126.net/ZFRErs5bARSZckh6Ib-juA==/109951166054812378.jpg",
+                        "companyId": 0,
+                        "pic": 109951166054812380,
+                        "picUrl": "http://p4.music.126.net/ZFRErs5bARSZckh6Ib-juA==/109951166054812378.jpg",
+                        "publishTime": 1622741431009,
+                        "description": "",
+                        "tags": "",
+                        "company": null,
+                        "briefDesc": "",
+                        "artist": {
+                            "name": "",
+                            "id": 0,
+                            "picId": 0,
+                            "img1v1Id": 0,
+                            "briefDesc": "",
+                            "picUrl": "http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                            "img1v1Url": "http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                            "albumSize": 0,
+                            "alias": [],
+                            "trans": "",
+                            "musicSize": 0,
+                            "topicPerson": 0
+                        },
+                        "songs": [],
+                        "alias": [],
+                        "status": 0,
+                        "copyrightId": 0,
+                        "commentThreadId": "R_AL_3_128389854",
+                        "artists": [
+                            {
+                                "name": "Mood_BBB9",
+                                "id": 47293261,
+                                "picId": 0,
+                                "img1v1Id": 0,
+                                "briefDesc": "",
+                                "picUrl": "http://p3.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                                "img1v1Url": "http://p4.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                                "albumSize": 0,
+                                "alias": [],
+                                "trans": "",
+                                "musicSize": 0,
+                                "topicPerson": 0
+                            }
+                        ],
+                        "subType": "录音室版",
+                        "transName": null,
+                        "mark": 0,
+                        "picId_str": "109951166054812378"
+                    },
+                    "starred": false,
+                    "popularity": 10,
+                    "score": 10,
+                    "starredNum": 0,
+                    "duration": 580388,
+                    "playedNum": 0,
+                    "dayPlays": 0,
+                    "hearTime": 0,
+                    "ringtone": "",
+                    "crbt": null,
+                    "audition": null,
+                    "copyFrom": "",
+                    "commentThreadId": "R_SO_4_1850094104",
+                    "rtUrl": null,
+                    "ftype": 0,
+                    "rtUrls": [],
+                    "copyright": 0,
+                    "transName": null,
+                    "sign": null,
+                    "mark": 0,
+                    "hMusic": {
+                        "name": null,
+                        "id": 6686960140,
+                        "size": 23216631,
+                        "extension": "mp3",
+                        "sr": 44100,
+                        "dfsId": 0,
+                        "bitrate": 320000,
+                        "playTime": 580388,
+                        "volumeDelta": 70280
+                    },
+                    "lMusic": {
+                        "name": null,
+                        "id": 6686960144,
+                        "size": 9286679,
+                        "extension": "mp3",
+                        "sr": 44100,
+                        "dfsId": 0,
+                        "bitrate": 128000,
+                        "playTime": 580388,
+                        "volumeDelta": 74671
+                    },
+                    "mvid": 0,
+                    "rtype": 0,
+                    "rurl": null,
+                    "mMusic": {
+                        "name": null,
+                        "id": 6686960142,
+                        "size": 13929996,
+                        "extension": "mp3",
+                        "sr": 44100,
+                        "dfsId": 0,
+                        "bitrate": 192000,
+                        "playTime": 580388,
+                        "volumeDelta": 72888
+                    },
+                    "bMusic": {
+                        "name": null,
+                        "id": 6686960144,
+                        "size": 9286679,
+                        "extension": "mp3",
+                        "sr": 44100,
+                        "dfsId": 0,
+                        "bitrate": 128000,
+                        "playTime": 580388,
+                        "volumeDelta": 74671
+                    },
+                    "mp3Url": null,
+                    "privilege": {
+                        "id": 1850094104,
+                        "fee": 8,
+                        "payed": 0,
+                        "st": 0,
+                        "pl": 128000,
+                        "dl": 0,
+                        "sp": 7,
+                        "cp": 1,
+                        "subp": 1,
+                        "cs": false,
+                        "maxbr": 320000,
+                        "fl": 128000,
+                        "toast": false,
+                        "flag": 2,
+                        "preSell": false,
+                        "playMaxbr": 320000,
+                        "downloadMaxbr": 320000,
+                        "rscl": null,
+                        "freeTrialPrivilege": {
+                            "resConsumable": false,
+                            "userConsumable": false
+                        },
+                        "chargeInfoList": [
+                            {
+                                "rate": 128000,
+                                "chargeUrl": null,
+                                "chargeMessage": null,
+                                "chargeType": 0
+                            },
+                            {
+                                "rate": 192000,
+                                "chargeUrl": null,
+                                "chargeMessage": null,
+                                "chargeType": 1
+                            },
+                            {
+                                "rate": 320000,
+                                "chargeUrl": null,
+                                "chargeMessage": null,
+                                "chargeType": 1
+                            },
+                            {
+                                "rate": 999000,
+                                "chargeUrl": null,
+                                "chargeMessage": null,
+                                "chargeType": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    "code": 200,
+    "message": ""
+}

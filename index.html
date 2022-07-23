@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div>
+      <audio
+        controls
+        autoplay
+        src="./SakuraNohana- - Fish In The Pool·花屋敷.mp3"
+      ></audio>
+    </div>
+  </body>
+  <script src="./sandbox.js"></script>
+  <script>
+    //上下文
+    let audioContext = new AudioContext({ sampleRate: 8e3 });
+    //来源
+    let source;
+    //wasm
+    let wasm;
+    //指纹
+    let fpArr = [];
+
+    let init = async (media) => {
+      await audioContext.audioWorklet.addModule("PitchProcessor.js");
+      const PitchProcessor = new AudioWorkletNode(
+        audioContext,
+        "PitchProcessor"
+      );
+      PitchProcessor.port.onmessage = (e) => {
+        let data = e.data.result;
+        let newData = (function (t, e) {
+          const r = new Float32Array(e);
+          for (let n = 0; n < e; n++) r[n] = t[n];
+          return r;
+        })(data, 48e3).buffer;
+
+        const result = createBuffer().ExtractQueryFP(newData),
+          r = new Int8Array(result.size());
+        for (let t = 0; t < result.size(); t++) r[t] = result.get(t);
+        fpArr.push({
+          times: 2,
+          duration: 6,
+          result: r.buffer,
+        });
+      };
+      PitchProcessor.connect(audioContext.destination);
+
+      const audioElement = document.querySelector("audio");
+      //加载音频
+      source = audioContext.createMediaElementSource(audioElement);
+      // source = audioContext.createMediaStreamSource(media);
+      source.connect(PitchProcessor);
+      source.connect(audioContext.destination);
+    };
+
+    init();
+
+    let Ze = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
+
+    let Ke = function (e) {
+      var t,
+        n = new Uint8Array(e),
+        r = n.length,
+        o = "";
+      for (t = 0; t < r; t += 3)
+        (o += Ze[n[t] >> 2]),
+          (o += Ze[((3 & n[t]) << 4) | (n[t + 1] >> 4)]),
+          (o += Ze[((15 & n[t + 1]) << 2) | (n[t + 2] >> 6)]),
+          (o += Ze[63 & n[t + 2]]);
+      return (
+        r % 3 == 2
+          ? (o = o.substring(0, o.length - 1) + "=")
+          : r % 3 == 1 && (o = o.substring(0, o.length - 2) + "=="),
+        o
+      );
+    };
+
+    let createFPBuffer = () => {
+      setTimeout(() => {
+        if (fpArr.length) {
+          console.log("fp", Ke(fpArr[0].result));
+        }
+      }, 7000);
+    };
+
+    createFPBuffer();
+  </script>
+</html>
